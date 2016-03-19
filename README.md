@@ -1,2 +1,5 @@
-# sudoku_solver
-Java code for Solving Sudoku
+# Sudoku Solver
+- The program is written in Java
+- Simple graphic user interface
+- Backtrack Algorithm is used (for more information visit https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
+https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
